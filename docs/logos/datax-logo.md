@@ -1,7 +1,7 @@
 # Логотип DataX
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="../assets/logo/datax/datax.png" alt="DataX Logo" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="../../assets/logo/datax/datax.png" alt="DataX Logo" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </div>
 
 DataX — освітня ініціатива Факультету прикладних наук у сфері Data Science та аналітики даних.
@@ -13,12 +13,12 @@ DataX — освітня ініціатива Факультету прикла�
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
 <div style="background: #ffffff; padding: 2.5rem; border-radius: 12px; text-align: center; border: 1px solid #e5e7eb;">
-  <img src="../assets/logo/datax/datax.png" alt="DataX Logo Light" style="max-width: 200px; width: 100%;">
+  <img src="../../assets/logo/datax/datax.png" alt="DataX Logo Light" style="max-width: 200px; width: 100%;">
   <p style="margin: 1rem 0 0 0; color: #666; font-size: 0.875rem;">Для світлого фону</p>
 </div>
 
 <div style="background: #1e1e2e; padding: 2.5rem; border-radius: 12px; text-align: center;">
-  <img src="../assets/logo/datax/datax_white.png" alt="DataX Logo Dark" style="max-width: 200px; width: 100%;">
+  <img src="../../assets/logo/datax/datax_white.png" alt="DataX Logo Dark" style="max-width: 200px; width: 100%;">
   <p style="margin: 1rem 0 0 0; color: #ccc; font-size: 0.875rem;">Для темного фону</p>
 </div>
 

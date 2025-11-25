@@ -1,7 +1,7 @@
 # Бланки
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="../assets/logo/brandpng/blank.png" alt="APPS UCU Letterhead" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="../../assets/logo/brandpng/blank.png" alt="APPS UCU Letterhead" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </div>
 
 Офіційні бланки використовуються для ділової кореспонденції, офіційних листів та документів факультету.

@@ -1,7 +1,7 @@
 # Презентації
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="../assets/logo/brandpng/presentation.png" alt="APPS UCU Presentation" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="../../assets/logo/brandpng/presentation.png" alt="APPS UCU Presentation" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </div>
 
 Шаблони презентацій забезпечують професійний та впізнаваний вигляд усіх виступів від імені факультету.
@@ -46,7 +46,7 @@
 
 <div style="background: linear-gradient(135deg, #662d91 0%, #8b5cf6 100%); color: white; padding: 3rem 2rem; border-radius: 12px; margin: 1.5rem 0;">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 3rem;">
-    <img src="../assets/logo/logo_aps_eng.svg" alt="Logo" style="height: 40px;">
+    <img src="../../assets/logo/logo_aps_eng.svg" alt="Logo" style="height: 40px;">
   </div>
   <h2 style="margin: 0; font-size: 2rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em;">НАЗВА ПРЕЗЕНТАЦІЇ</h2>
   <p style="margin: 1rem 0 0 0; opacity: 0.9;">Підзаголовок або дата</p>
@@ -57,7 +57,7 @@
 <div style="background: #ffffff; border: 1px solid #e5e7eb; padding: 2rem; border-radius: 12px; margin: 1.5rem 0;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 2px solid #662d91;">
     <h3 style="margin: 0; color: #662d91; font-weight: 700;">Заголовок слайду</h3>
-    <img src="../assets/logo/logo_aps_eng_full_color.svg" alt="Logo" style="height: 30px;">
+    <img src="../../assets/logo/logo_aps_eng_full_color.svg" alt="Logo" style="height: 30px;">
   </div>
   <div style="color: #58595b;">
     <p style="margin: 0 0 1rem 0;">Основний контент слайду розміщується тут.</p>

@@ -20,7 +20,7 @@
   </div>
   
   <div style="margin-top: 1rem;">
-    <img src="../assets/logo/logo_aps_eng_full_color.svg" alt="APPS Logo" style="height: 40px;">
+    <img src="../../assets/logo/logo_aps_eng_full_color.svg" alt="APPS Logo" style="height: 40px;">
   </div>
 </div>
 
@@ -56,7 +56,7 @@ Web: apps.ucu.edu.ua
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 8px; margin: 1rem 0; font-family: Arial, sans-serif;">
   <div style="display: flex; gap: 1rem; align-items: flex-start;">
-    <img src="../assets/logo/logo_aps_eng_full_color.svg" alt="APPS Logo" style="height: 50px;">
+    <img src="../../assets/logo/logo_aps_eng_full_color.svg" alt="APPS Logo" style="height: 50px;">
     <div>
       <p style="margin: 0; color: #662d91; font-weight: 600;">Ім'я Прізвище</p>
       <p style="margin: 0.25rem 0 0 0; color: #58595b; font-size: 0.9rem;">Посада</p>

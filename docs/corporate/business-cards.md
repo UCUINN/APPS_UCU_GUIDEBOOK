@@ -1,7 +1,7 @@
 # Візитні картки
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="../assets/logo/brandpng/bussiness_card.png" alt="APPS UCU Business Cards" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="../../assets/logo/brandpng/bussiness_card.png" alt="APPS UCU Business Cards" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </div>
 
 ## Дизайн візиток

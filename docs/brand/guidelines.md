@@ -1,7 +1,7 @@
 # Правила використання бренду
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="../assets/logo/brandpng/brand.png" alt="APPS UCU Brand Guidelines" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="../../assets/logo/brandpng/brand.png" alt="APPS UCU Brand Guidelines" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </div>
 
 Ці правила забезпечують послідовне та професійне представлення Факультету прикладних наук УКУ у всіх комунікаціях.
