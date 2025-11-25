@@ -4,8 +4,8 @@
 
 <div class="logos-container" markdown>
 
-![Applied Sciences Faculty Logo](/guidebook/assets/logo/logo_aps_eng@2x.png){ .logo }
-![UKU Logo](/guidebook/assets/logo/uku_logo___seal_engl%201.svg){ .logo-uku }
+![Applied Sciences Faculty Logo](assets/logo/logo_aps_eng@2x.png){ .logo }
+![UKU Logo](assets/logo/uku_logo___seal_engl%201.svg){ .logo-uku }
 
 </div>
 
@@ -27,7 +27,7 @@
 ## Про гайдбук
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/guidebook/assets/logo/brandpng/main_page.png" alt="APPS UCU Brand Overview" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="assets/logo/brandpng/main_page.png" alt="APPS UCU Brand Overview" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </div>
 
 Цей гайдбук містить усі необхідні матеріали та рекомендації щодо використання логотипів, кольорової палітри, шрифтів та інших елементів фірмового стилю Факультету прикладних наук Українського Католицького Університету.

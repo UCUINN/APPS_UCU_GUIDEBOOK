@@ -1,7 +1,7 @@
 # Типографіка
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img src="/guidebook/assets/logo/brandpng/fonts.png" alt="APPS UCU Fonts" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="../assets/logo/brandpng/fonts.png" alt="APPS UCU Fonts" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </div>
 
 Типографіка є ключовим елементом візуальної ідентичності Факультету прикладних наук УКУ. Правильне використання шрифтів забезпечує впізнаваність бренду та професійний вигляд усіх комунікаційних матеріалів.
